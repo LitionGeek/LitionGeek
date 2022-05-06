@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Alan Galvan</h1>
-<h3 align="center">Trabajo como QA orientándome para el lado de desarrollo en JS con el stack de MERN</h3>
+<h3 align="center">Trabajo como QA formandome como desarrollador en JS con el stack de MERN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=litiongeek&label=Profile%20views&color=0e75b6&style =flat" alt="litiongeek" /> </p>
 
