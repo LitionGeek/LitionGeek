@@ -12,7 +12,6 @@
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/LitionGeek?tab=repositories](https://github.com/LitionGeek?tab=repositories)
 
 <h3 align= "left">Conéctate conmigo:</h3>
-<
 <a href="https://linkedin.com/en/https://www.linkedin.com/en/alan-alexis-galvan/" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com /en/alan-alexis-galvan/" height="30" width="40" /></a>
 </p>
 
