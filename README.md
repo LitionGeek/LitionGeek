@@ -9,7 +9,7 @@
 
 - 👯 Estoy buscando colaborar en **NodeJS, React Native, ReactJS O AWS**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/LitionGeek?tab=repositories](https://github.com/LitionGeek?tab=repositories)
+- 👨‍💻 Todos mis proyectos están disponibles en [mi repositorio](https://github.com/LitionGeek?tab=repositories)
 
 <h3 align= "left">Conéctate conmigo:</h3>
 
