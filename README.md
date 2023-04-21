@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=litiongeek&label=Profile%20views&color=0e75b6&style =flat" alt="litiongeek" /> </p>
 
-- 🔭 Actualmente estoy trabajando en **IBM**
+- 🔭 Actualmente estoy trabajando en el **Gobierno de la Ciudad de Buenos Aires**
 
-- 🌱 Actualmente estoy aprendiendo **NodeJS y React**
+- 🌱 Actualmente estoy aprendiendo **NEXTJS E Ingles**
 
-- 👯 Estoy buscando colaborar en **NodeJS**
+- 👯 Estoy buscando colaborar en **NodeJS, React Native, ReactJS O AWS**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/LitionGeek?tab=repositories](https://github.com/LitionGeek?tab=repositories)
 
