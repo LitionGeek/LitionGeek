@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=litiongeek&label=Profile%20views&color=0e75b6&style =flat" alt="litiongeek" /> </p>
 
-- 🔭 Actualmente estoy trabajando en el **Gobierno de la Ciudad de Buenos Aires**
+- 🔭 Actualmente estoy trabajando en el **Gobierno de la Ciudad de Buenos Aires, Direccion de espacios Verdes Y Arbolados.**
 
-- 🌱 Actualmente estoy aprendiendo **NEXTJS E Ingles**
+- 🌱 Actualmente estoy aprendiendo **NextJS E Ingles**
 
 - 👯 Estoy buscando colaborar en **NodeJS, React Native, ReactJS O AWS**
 
