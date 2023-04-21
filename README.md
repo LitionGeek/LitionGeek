@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Alan Galvan</h1>
-<h3 align="center">Actualmente trabajo como MERN Developer, Leader React Native y Tutor en CoderHouse.</h3>
+<h3 align="center">Soy MERN Developer y estudiante de Sistemas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=litiongeek&label=Profile%20views&color=0e75b6&style =flat" alt="litiongeek" /> </p>
 
