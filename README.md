@@ -2,7 +2,7 @@
 <h3 align="center">Soy Software Engineer y estudiante de Sistemas.</h3>
 
 
-- 🔭 Actualmente estoy trabajando en el **Gobierno de la Ciudad de Buenos Aires, Direccion de espacios Verdes Y Arbolados.**
+- 🔭 Actualmente estoy trabajando en **Galicia S.**
 
 - 🌱 Actualmente estoy aprendiendo **NextJS E Ingles**
 
