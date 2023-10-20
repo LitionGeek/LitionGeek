@@ -2,8 +2,6 @@
 <h3 align="center">Soy Software Engineer y estudiante de Sistemas.</h3>
 
 
-- 🔭 Actualmente estoy trabajando en **Galicia S.**
-
 - 🌱 Actualmente estoy aprendiendo **NextJS E Ingles**
 
 - 👯 Estoy buscando colaborar en **NodeJS, React Native, ReactJS O AWS**
