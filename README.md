@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Alan Galvan</h1>
 <h3 align="center">Soy Software Engineer y estudiante de Sistemas.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=litiongeek&label=Profile%20views&color=0e75b6&style =flat" alt="litiongeek" /> </p>
+//<p align="left"> <img src="https://komarev.com/ghpvc/?username=litiongeek&label=Profile%20views&color=0e75b6&style =flat" alt="litiongeek" /> </p>
 
 - 🔭 Actualmente estoy trabajando en el **Gobierno de la Ciudad de Buenos Aires, Direccion de espacios Verdes Y Arbolados.**
 
